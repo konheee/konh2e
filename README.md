@@ -1,5 +1,5 @@
 # This is Konh2e 🚀
-* Hi, I'm Konh2e, a software developer based in Seoul, South Korea.
+* Hi, I'm Konh2e, a software developer in South Korea.
 
 # What I've been interested in 
 * I like python, JS, vim. I like studying and there are so many things what I want to know furthermore.
